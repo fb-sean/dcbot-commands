@@ -10,7 +10,7 @@ module.exports = {
 	ussage : "[command]",
 	hidden : false,
 	admin : false,
-    premiumonly : false,
+        premiumonly : false,
 	nsfw : false,
 
 	async execute(client,message,args) {
