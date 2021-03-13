@@ -1,2 +1,2 @@
-# dcbot-commands-
+# dcbot-commands
 Simple Commands
